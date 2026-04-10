@@ -10,3 +10,8 @@ public class ProceduralCode
 }
 
 // Add your code here
+
+
+//should encapsulate the variables and methods within a Rectangle class
+//should pass the variables into the Rectangle as constructor arguments
+//should have a CalculateArea method that takes no arguments
